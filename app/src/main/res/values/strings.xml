@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">museum_ocr</string>
+    <string name="capture">capture</string>
+</resources>
