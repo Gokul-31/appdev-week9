@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">museum_ocr</string>
     <string name="capture">capture</string>
+    <string name="photo">capture</string>
+    <string name="convert">convert</string>
+    <string name="speak">speak</string>
+    <string name="close">close</string>
 </resources>
